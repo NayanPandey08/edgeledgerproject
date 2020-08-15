@@ -1,0 +1,18 @@
+/* align items to left */
+#what .items .item{
+    display: flex;
+    text-align: left;
+}
+
+/* postion icons */
+#what .items .item i{
+    margin-right: 1.3rem;
+    align-self: center;
+    margin-bottom: 0;
+
+}
+
+/* maps and forms to get full space */
+#contact .map{
+    flex: 2;
+}
